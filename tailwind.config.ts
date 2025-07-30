@@ -52,6 +52,13 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				// Jiggs Burger brand colors
+				burger: {
+					red: 'hsl(var(--burger-red))',
+					gold: 'hsl(var(--burger-gold))',
+					brown: 'hsl(var(--burger-brown))',
+					cream: 'hsl(var(--burger-cream))'
+				},
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
